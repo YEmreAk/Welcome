@@ -8,9 +8,13 @@ description: "\U0001F30E Yunus Emre AK ~ YEmreAk'ın (@yedhrab) bilgi dünyasın
 
 Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklamaktayım.
 
-> Her sütun bir ayrı web sayfasındaki içeriği gösterir
+{% hint style="info" %}
+**🔍** Arama alanından **tüm domainlerdeki sayfa başlıklarına** erişebilirisin
+{% endhint %}
 
 ![](.gitbook/assets/yemreak.png)
+
+> Her sütun bir ayrı web sayfasındaki içeriği gösterir
 
 ## 🔗 Bağlantılar
 

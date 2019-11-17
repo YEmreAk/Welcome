@@ -1,8 +1,8 @@
 ---
-description: 🎇 Windows 10 notlarım
+description: "\U0001F387 Windows 10 notlarım"
 ---
 
-# 🎇 Windows 10 Notları
+# 🎇 Windows 10
 
 * [🎇 Windows 10 Notları](https://windows.yemreak.com/)
 * [🥽 Awesome Windows](https://windows.yemreak.com/awesome)
@@ -35,15 +35,15 @@ description: 🎇 Windows 10 notlarım
 
 ## Derlenmiş Çalışmalarım
 
-- [📖 Kişisel Kütüphanem](https://wiki.yemreak.com)
-- [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
-- [🐍 Python Notlarım](https://python.yemreak.com)
-- [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com)
-- [🎇 Windows 10 Notlarım](https://windows.yemreak.com)
-- [📊 Veri Bilimi Notlarım](https://ds.yemreak.com)
-- [📲 Android Notlarım](https://android.yemreak.com)
-- [🏫 Üniversite Notları](https://iuce.yemreak.com)
-- [📕 Git Notları](https://book.git.yemreak.com/)
-- [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
-- [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
+* [📖 Kişisel Kütüphanem](https://wiki.yemreak.com)
+* [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
+* [🐍 Python Notlarım](https://python.yemreak.com)
+* [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com)
+* [🎇 Windows 10 Notlarım](https://windows.yemreak.com)
+* [📊 Veri Bilimi Notlarım](https://ds.yemreak.com)
+* [📲 Android Notlarım](https://android.yemreak.com)
+* [🏫 Üniversite Notları](https://iuce.yemreak.com)
+* [📕 Git Notları](https://book.git.yemreak.com/)
+* [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
+* [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 
