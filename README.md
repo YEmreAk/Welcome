@@ -20,7 +20,7 @@ Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklam
 
 > Her sütun bir ayrı web sayfasındaki içeriği gösterir
 
-## 🔗 Bağlantılar
+## ✨ Sayfalarım
 
 {% embed url="https://wiki.yemreak.com" %}
 
