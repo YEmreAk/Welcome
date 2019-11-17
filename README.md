@@ -4,9 +4,13 @@ description: "\U0001F30E Yunus Emre AK ~ YEmreAk'ın (@yedhrab) bilgi dünyasın
 
 # 👨‍💻 YEmreAk
 
-## 🎤 Karşılama
+## 🦚 Karşılama
 
 Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklamaktayım.
+
+* 🏹 Sağ üstteki arama alanına aradığın sayfanın başlığını yaz
+* 🕵️‍♂️ Sayfa açıldıktan sonra CTRL + F ile tarayıcı arama alanına isteğini yaz
+* 🚀 Bulduğun linke tıkla ve aradığın alana yönel
 
 {% hint style="info" %}
 **🔍** Arama alanından **tüm domainlerdeki sayfa başlıklarına** erişebilirisin
