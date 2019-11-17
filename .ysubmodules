@@ -1,0 +1,50 @@
+[submodule "kisisel-ansiklopedim.md"]
+	description = 📖 Kişisel ansiklopedim
+	path = kisisel-ansiklopedim.md
+	url = https://github.com/YEmreAk/YWiki
+	root = https://wiki.yemreak.com
+
+[submodule "oegrenme-yollari.md"]
+	description = 👨‍🏫 Öğrenme yolları
+	path = oegrenme-yollari.md
+	url = https://github.com/YEmreAk/YLearn
+	root = https://learn.yemreak.com
+
+[submodule "python.md"]
+	description = 🐍 Python notlarım
+	path = python.md
+	url = https://github.com/YEmreAk/YPython
+	root = https://python.yemreak.com
+
+[submodule "windows-10-notlari.md"]
+	description = 🎇 Windows 10 notlarım
+	path = windows-10.md
+	url = https://github.com/YEmreAk/YWindows10
+	root = https://windows.yemreak.com
+
+[submodule "yapay-zeka.md"]
+	description = 🧠 Yapay zeka notlarım
+	path = yapay-zeka.md
+	url = https://github.com/YEmreAk/YArtificialIntelligence
+	root = https://ai.yemreak.com
+
+[submodule "veri-bilimi.md"]
+	description = 📊 Veri bilimi notlarım
+	path = veri-bilimi.md
+	url = https://github.com/YEmreAk/YDataScience
+	root = https://ds.yemreak.com
+
+[submodule "android.md"]
+	description = 📲 Android programlama notlarım
+	path = android.md
+	url = https://github.com/YEmreAk/YAndroid
+	root = https://android.yemreak.com
+
+[submodule "istanbul-university-ce.md"]
+	description = 🏫 Üniversitedeki notlar
+	path = istanbul-ueniversitesi-ce.md
+	url = https://github.com/YEmreAk/IstanbulUniversity-CE
+	root = https://iuce.yemreak.com
+
+
+

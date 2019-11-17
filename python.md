@@ -1,5 +1,5 @@
 ---
-description: "\U0001F40D Python notlarım"
+description: 🐍 Python notlarım
 ---
 
 # 🐍 Python
@@ -52,7 +52,7 @@ description: "\U0001F40D Python notlarım"
   * [🔆 IPython Görsel Programlama \(GUI\)](https://python.yemreak.com/ipython/ipython-goersel-programlama-gui)
   * [🔗 IPython Harici Bağlantılar](https://python.yemreak.com/ipython/ipython-harici-baglantilar)
 
-### Derlenmiş Çalışmalarım
+## Derlenmiş Çalışmalarım
 
 * [📖 Kişisel Kütüphanem](https://wiki.yemreak.com)
 * [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
