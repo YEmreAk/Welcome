@@ -1,8 +1,8 @@
 ---
-description: "\U0001F4D6 Kişisel ansiklopedim"
+description: 📖 Kişisel ansiklopedim
 ---
 
-# 📖 Kişisel Ansiklopedim
+# 📖 YWiki
 
 * [📖 YWiki](https://wiki.yemreak.com/)
 * [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)

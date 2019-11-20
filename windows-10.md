@@ -1,8 +1,8 @@
 ---
-description: "\U0001F387 Windows 10 notlarım"
+description: 🎇 Windows 10 notlarım
 ---
 
-# 🎇 Windows 10
+# 🎇 Windows 10 Notları
 
 * [🎇 Windows 10 Notları](https://windows.yemreak.com/)
 * [🥽 Awesome Windows](https://windows.yemreak.com/awesome)
