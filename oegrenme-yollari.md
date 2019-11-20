@@ -1,8 +1,8 @@
 ---
-description: 👨‍🏫 Öğrenme yolları
+description: "\U0001F468‍\U0001F3EB Öğrenme yolları"
 ---
 
-# 👨‍🏫 YLearn
+# 👨‍🏫 Öğrenme Yolları
 
 * [👨‍🏫 YLearn](https://learn.yemreak.com/)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
