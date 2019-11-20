@@ -16,9 +16,7 @@ Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklam
 **🔍** Arama alanından **tüm domainlerdeki sayfa başlıklarına** erişebilirisin
 {% endhint %}
 
-![](.gitbook/assets/yemreak_lineer.png)
-
-> Her sütun bir ayrı web sayfasındaki içeriği gösterir
+![](https://drive.google.com/uc?id=1LZoJzZyY_uYbl3zCxk6ZtZPaDiMHglMv)
 
 ## ✨ Sayfalarım
 
