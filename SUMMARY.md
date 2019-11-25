@@ -5,6 +5,7 @@
 * [👨‍🏫 Öğrenme Yolları](oegrenme-yollari.md)
 * [🐍 Python](python.md)
 * [🎇 Windows 10](windows-10.md)
+* [🐧 Linux](linux.md)
 * [🧠 Yapay Zeka](yapay-zeka.md)
 * [📊 Veri Bilimi](veri-bilimi.md)
 * [📱 Android](android.md)
