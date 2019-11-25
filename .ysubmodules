@@ -6,7 +6,7 @@
 
 [submodule "oegrenme-yollari.md"]
 	description = Öğrenme yolları
-	path = oegrenme-yollari.md
+	path = ogrenme-yollari.md
 	url = https://github.com/YEmreAk/YLearn
 	root = https://learn.yemreak.com
 
@@ -48,6 +48,6 @@
 
 [submodule "istanbul-university-ce.md"]
 	description = 🏫 Üniversitedeki notlar
-	path = istanbul-ueniversitesi-ce.md
+	path = iuce-ce.md
 	url = https://github.com/YEmreAk/IstanbulUniversity-CE
 	root = https://iuce.yemreak.com
