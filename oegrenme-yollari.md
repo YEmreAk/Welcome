@@ -1,8 +1,8 @@
 ---
-description: "\U0001F468‍\U0001F3EB Öğrenme yolları"
+description: Öğrenme yolları
 ---
 
-# 👨‍🏫 Öğrenme Yolları
+# 👨‍🏫 YLearn
 
 * [👨‍🏫 YLearn](https://learn.yemreak.com/)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
@@ -13,16 +13,16 @@ description: "\U0001F468‍\U0001F3EB Öğrenme yolları"
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [🧰 Faydalı Siteler](https://learn.yemreak.com/yonetim/faydali-siteler)
-* [🎇 Windows 10](https://learn.yemreak.com/yonetim/windows-10)
-* [👨‍💻 Programlama](https://learn.yemreak.com/yonetim/programlama)
-* [🐍 Python](https://learn.yemreak.com/yonetim/python)
 * [📱 Android](https://learn.yemreak.com/yonetim/android)
-* [👩‍🏫 Makine Öğrenimi](https://learn.yemreak.com/yonetim/makine-ogrenimi)
-* [🧠 Yapay Zeka](https://learn.yemreak.com/yonetim/yapay-zeka)
-* [🌍 Web Programlama](https://learn.yemreak.com/yonetim/web-programlama)
-* [📊 Veri Bilimi](https://learn.yemreak.com/yonetim/veri-bilimi)
 * [🌊 Derin Öğrenme](https://learn.yemreak.com/yonetim/derin-ogrenme)
 * [🍎 MacOS](https://learn.yemreak.com/yonetim/macos)
+* [👩‍🏫 Makine Öğrenimi](https://learn.yemreak.com/yonetim/makine-ogrenimi)
+* [👨‍💻 Programlama](https://learn.yemreak.com/yonetim/programlama)
+* [🐍 Python](https://learn.yemreak.com/yonetim/python)
+* [📊 Veri Bilimi](https://learn.yemreak.com/yonetim/veri-bilimi)
+* [🌍 Web Programlama](https://learn.yemreak.com/yonetim/web-programlama)
+* [🎇 Windows 10](https://learn.yemreak.com/yonetim/windows-10)
+* [🧠 Yapay Zeka](https://learn.yemreak.com/yonetim/yapay-zeka)
 
 ## Deneysel
 
