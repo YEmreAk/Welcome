@@ -6,10 +6,10 @@ description: Öğrenme yolları
 
 * [👨‍🏫 YLearn](https://learn.yemreak.com/)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
+* [🚀 YEmoji](https://emoji.yemreak.com)
 
 ## Yönetim <a id="yonetim"></a>
 
-* [🚀 YEmoji](https://learn.yemreak.com/yonetim/yemoji)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [🧰 Faydalı Siteler](https://learn.yemreak.com/yonetim/faydali-siteler)
