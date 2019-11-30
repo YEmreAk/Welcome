@@ -19,6 +19,7 @@ description: Linux notlarım
   * [👷‍♂️ Uygulama Kurulumları](https://limux.yemreak.com/terminal/kurulumlar)
   * [⏬ Terminal İndiricileri](https://limux.yemreak.com/terminal/indiriciler)
   * [✨ Diğer Terminal Notları](https://limux.yemreak.com/terminal/diger)
+  * [🎨 Terminal Teması](https://limux.yemreak.com/terminal/tema)
 * [👨‍🔧 Yapılandırma Ayarları](https://limux.yemreak.com/yapilandirma)
 * [👨‍💻 Geliştirici Notları](https://limux.yemreak.com/gelistirici/)
   * [👨‍💼 Pencere Yönetimi](https://limux.yemreak.com/gelistirici/pencere-yonetimi)
@@ -44,3 +45,4 @@ description: Linux notlarım
 * [📕 Git Notları](https://book.git.yemreak.com/)
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
+

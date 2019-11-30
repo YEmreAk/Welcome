@@ -22,6 +22,8 @@ description: Android programlama notlarım
   * [🔰 Android Servislerine Giriş](https://android.yemreak.com/temel-kavramlar/arkaplanda-calisma/android-servisleri)
   * [🌞 Foreground Service](https://android.yemreak.com/temel-kavramlar/arkaplanda-calisma/foreground-service)
   * [🌠 MultiThreading](https://android.yemreak.com/temel-kavramlar/arkaplanda-calisma/multithreading)
+* [📶 Kablosuz Haberleşme](https://android.yemreak.com/temel-kavramlar/kablosuz-haberlesme/)
+  * [📶 WiFi P2P](https://android.yemreak.com/temel-kavramlar/kablosuz-haberlesme/wifi)
 
 ## Faydalı Bilgiler
 
