@@ -1,5 +1,5 @@
 [integration "pre"]
-args = -us
+args = -usp
 
 [submodule "kisisel-ansiklopedim.md"]
 description = Kişisel ansiklopedim
@@ -48,6 +48,12 @@ description = Android programlama notlarım
 path = android.md
 url = https://github.com/YEmreAk/YAndroid
 root = https://android.yemreak.com
+
+[submodule "java.md"]
+description = Java programlama notlarım
+path = java.md
+url = https://github.com/YEmreAk/YJava
+root = https://java.yemreak.com
 
 [submodule "linux-notlari.md"]
 description = Linux notlarım
