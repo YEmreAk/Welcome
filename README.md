@@ -8,8 +8,8 @@ description: "\U0001F30E Yunus Emre AK ~ YEmreAk'ın (@yedhrab) bilgi dünyasın
 
 Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklamaktayım.
 
-* 🏹 Sağ üstteki arama alanına aradığın sayfanın başlığını yaz
-* 🕵️‍♂️ Sayfa açıldıktan sonra CTRL + F ile tarayıcı arama alanına isteğini yaz
+* 🏹 Sağ üstteki **arama alanına** aradığın sayfanın başlığını yaz
+* 🕵️‍♂️ Sayfa açıldıktan sonra **CTRL + F** ile tarayıcı arama alanına isteğini yaz
 * 🚀 Bulduğun linke tıkla ve aradığın alana yönel
 
 {% hint style="info" %}
@@ -20,28 +20,27 @@ Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklam
 
 ## ✨ Sayfalarım
 
-{% embed url="https://wiki.yemreak.com" %}
+{% embed url="https://wiki.yemreak.com" caption="" %}
 
-{% embed url="https://learn.yemreak.com" %}
+{% embed url="https://learn.yemreak.com" caption="" %}
 
-{% embed url="https://python.yemreak.com" %}
+{% embed url="https://python.yemreak.com" caption="" %}
 
-{% embed url="https://ai.yemreak.com/" %}
+{% embed url="https://ai.yemreak.com/" caption="" %}
 
-{% embed url="https://windows.yemreak.com" %}
+{% embed url="https://windows.yemreak.com" caption="" %}
 
-{% embed url="https://ds.yemreak.com" %}
+{% embed url="https://ds.yemreak.com" caption="" %}
 
-{% embed url="https://android.yemreak.com" %}
+{% embed url="https://android.yemreak.com" caption="" %}
 
-{% embed url="https://iuce.yemreak.com" %}
+{% embed url="https://iuce.yemreak.com" caption="" %}
 
-{% embed url="https://book.git.yemreak.com/" %}
+{% embed url="https://book.git.yemreak.com/" caption="" %}
 
-{% embed url="https://github.com/yedhrab/YReact-Firebase" %}
+{% embed url="https://github.com/yedhrab/YReact-Firebase" caption="" %}
 
-{% embed url="https://github.com/YEmreAk/YScripts" %}
-
+{% embed url="https://github.com/YEmreAk/YScripts" caption="" %}
 
 ## 🌍 Tüm YEmreAk İçerikleri
 
@@ -58,5 +57,4 @@ Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklam
 **The** [**MIT License**](https://choosealicense.com/licenses/mit/) **© Yunus Emre Ak**
 
 ![YEmreAk](https://drive.google.com/uc?id=1Wd_YLVOkAhXPVqFMx_aZyFvyTy_88H-Z)
-
 

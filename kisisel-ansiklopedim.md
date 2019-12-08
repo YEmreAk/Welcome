@@ -2,7 +2,7 @@
 description: Kişisel ansiklopedim
 ---
 
-# 📖 YWiki
+# 📖 Kişisel Ansiklopedim
 
 * [📖 YWiki](https://wiki.yemreak.com/)
 * [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
