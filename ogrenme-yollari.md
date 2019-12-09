@@ -2,27 +2,28 @@
 description: Öğrenme yolları
 ---
 
-# 👨‍🏫 Öğrenme Yolları
+# 👨‍🏫 YLearn
 
 * [👨‍🏫 YLearn](https://learn.yemreak.com/)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)
 * [🚀 YEmoji](https://emoji.yemreak.com)
+* [⭐ Benzer Çalışmalar](https://learn.yemreak.com/benzer-calismalar)
 
 ## Yönetim <a id="yonetim"></a>
 
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
-* [🧰 Faydalı Siteler](https://learn.yemreak.com/yonetim/faydali-siteler)
-* [📱 Android](https://learn.yemreak.com/yonetim/android)
-* [🌊 Derin Öğrenme](https://learn.yemreak.com/yonetim/derin-ogrenme)
-* [🍎 MacOS](https://learn.yemreak.com/yonetim/macos)
-* [👩‍🏫 Makine Öğrenimi](https://learn.yemreak.com/yonetim/makine-ogrenimi)
-* [👨‍💻 Programlama](https://learn.yemreak.com/yonetim/programlama)
-* [🐍 Python](https://learn.yemreak.com/yonetim/python)
-* [📊 Veri Bilimi](https://learn.yemreak.com/yonetim/veri-bilimi)
-* [🌍 Web Programlama](https://learn.yemreak.com/yonetim/web-programlama)
-* [🎇 Windows 10](https://learn.yemreak.com/yonetim/windows-10)
-* [🧠 Yapay Zeka](https://learn.yemreak.com/yonetim/yapay-zeka)
+* [📱 Android](https://learn.yemreak.com/android)
+* [🌊 Derin Öğrenme](https://learn.yemreak.com/derin-ogrenme)
+* [🧰 Faydalı Siteler](https://learn.yemreak.com/faydali-siteler)
+* [🍎 MacOS](https://learn.yemreak.com/macos)
+* [👩‍🏫 Makine Öğrenimi](https://learn.yemreak.com/makine-ogrenimi)
+* [👨‍💻 Programlama](https://learn.yemreak.com/programlama)
+* [🐍 Python](https://learn.yemreak.com/python)
+* [📊 Veri Bilimi](https://learn.yemreak.com/veri-bilimi)
+* [🌍 Web Programlama](https://learn.yemreak.com/web-programlama)
+* [🎇 Windows 10](https://learn.yemreak.com/windows-10)
+* [🧠 Yapay Zeka](https://learn.yemreak.com/yapay-zeka)
 
 ## Deneysel
 
@@ -39,6 +40,7 @@ description: Öğrenme yolları
 * [🐧 Linux Notlarım](https://linux.yemreak.com)
 * [📊 Veri Bilimi Notlarım](https://ds.yemreak.com)
 * [📲 Android Notlarım](https://android.yemreak.com)
+* [☕ Java Notlarım](https://java.yemreak.com)
 * [🏫 Üniversite Notları](https://iuce.yemreak.com)
 * [📕 Git Notları](https://book.git.yemreak.com/)
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)

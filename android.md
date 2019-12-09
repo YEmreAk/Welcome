@@ -2,7 +2,7 @@
 description: Android programlama notlarım
 ---
 
-# 📱 Android
+# 📱 YAndroid
 
 * [📱 YAndroid](https://android.yemreak.com/)
 * [🌟 Faydalı Kaynaklar](https://learn.yemreak.com/icerikler/android)
@@ -28,6 +28,7 @@ description: Android programlama notlarım
 ## Faydalı Bilgiler
 
 * [✍ Kişisel Notlarım](https://android.yemreak.com/faydali-bilgiler/kisisel-notlarim)
+* [✨ Verimli Programlama](https://android.yemreak.com/faydali-bilgiler/verimli-programlama)
 * [⭐ Activity Örnekleri](https://android.yemreak.com/faydali-bilgiler/activity-oernekleri)
 * [📲 Telefonu Bilgisayara Bağlama](https://android.yemreak.com/faydali-bilgiler/telefonu-bilgisayara-baglama)
 * [👜 Google Play Store](https://android.yemreak.com/faydali-bilgiler/google-play-store)
@@ -53,6 +54,7 @@ description: Android programlama notlarım
 * [🐧 Linux Notlarım](https://linux.yemreak.com)
 * [📊 Veri Bilimi Notlarım](https://ds.yemreak.com)
 * [📲 Android Notlarım](https://android.yemreak.com)
+* [☕ Java Notlarım](https://java.yemreak.com)
 * [🏫 Üniversite Notları](https://iuce.yemreak.com)
 * [📕 Git Notları](https://book.git.yemreak.com/)
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
