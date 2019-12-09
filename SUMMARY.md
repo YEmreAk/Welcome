@@ -10,6 +10,7 @@
 * [📊 Veri Bilimi](veri-bilimi.md)
 * [📱 Android](android.md)
 * [🏫 İstanbul Üniversitesi - CE](iuce-ce.md)
+* [☕ Java](java.md)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [🔥 Firebase - React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [📕 Türkçe Git](https://book.git.yemreak.com)
