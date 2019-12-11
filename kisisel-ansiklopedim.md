@@ -1,10 +1,10 @@
 ---
-description: Kişisel kütüphanem
+description: Kişisel ansiklopedim
 ---
 
 # 📖 Kişisel Kütüphanem
 
-* [📖 YWiki](https://wiki.yemreak.com/)
+* [📖 Kişisel Kütüphanem](https://wiki.yemreak.com/)
 * [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
 * [🚀 Emoji Sözlüğüm](https://emoji.yemreak.com)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)

@@ -4,7 +4,7 @@ description: Veri bilimi notlarım
 
 # 📊 Veri Bilimi Notlarım
 
-* [📊 Veri Bilimi](https://ds.yemreak.com/)
+* [📊 Veri Bilimi Notlarım](https://ds.yemreak.com/)
 * [👀 Neler değişti](https://ds.yemreak.com/changelog)
 * [💖 Katkıda Bulunma Rehberi](https://ds.yemreak.com/contributing)
 * [🌟 Faydalı Kaynaklar](https://ds.yemreak.com/0-faydali-kaynaklar/)

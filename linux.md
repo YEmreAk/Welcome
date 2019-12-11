@@ -4,7 +4,7 @@ description: Linux notlarım
 
 # 🐧 Linux Notlarım
 
-* [🐧 YLinux](https://limux.yemreak.com/)
+* [🐧 Linux Notlarım](https://limux.yemreak.com/)
 * [🌟 Faydalı Uygulamalar](https://limux.yemreak.com/uygulamalar)
 * [🔰 Linux'a Giriş](https://limux.yemreak.com/giris)
 * [💖 Kısayollar](https://limux.yemreak.com/kisayollar/)

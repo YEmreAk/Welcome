@@ -2,9 +2,9 @@
 description: Android programlama notlarım
 ---
 
-# 📱 Android Notlarım
+# 📲 Android Notlarım
 
-* [📲 YAndroid](https://android.yemreak.com/)
+* [📲 Android Notlarım](https://android.yemreak.com/)
 * [🌟 Faydalı Kaynaklar](https://learn.yemreak.com/icerikler/android)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [🔰 Android'e Giriş](https://android.yemreak.com/giris/)

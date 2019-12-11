@@ -4,7 +4,7 @@ description: Windows 10 notlarım
 
 # 🎇 Windows 10 Notlarım
 
-* [🎇 YWindows 10](https://windows.yemreak.com/)
+* [🎇 Windows 10 Notlarım](https://windows.yemreak.com/)
 * [🔰 Windows'a Giriş](https://windows.yemreak.com/windowsa-giris/)
   * [👷‍ Windows 10 Kurulumu](https://windows.yemreak.com/windowsa-giris/kurulum)
   * [🔨 Sistem Ayarları](https://windows.yemreak.com/windowsa-giris/sistem)

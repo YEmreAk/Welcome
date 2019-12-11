@@ -4,7 +4,7 @@ description: Yapay zeka notlarım
 
 # 🧠 Yapay Zeka Notlarım
 
-* [🧠 Yapay Zeka](https://ai.yemreak.com/)
+* [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com/)
 * [🌟 Faydalı Kaynaklar](https://ai.yemreak.com/faydali-kaynaklar)
 * [📙 Yapay Zeka Çalışmalarım](https://github.com/YEmreAk/AI-NoteBooks)
 * [👨‍🏫 Makine Öğrenimi](https://ai.yemreak.com/makine-oegrenimi/)

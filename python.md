@@ -4,7 +4,7 @@ description: Python notlarım
 
 # 🐍 Python Notlarım
 
-* [🐍 Python](https://python.yemreak.com/)
+* [🐍 Python Notlarım](https://python.yemreak.com/)
 * [🌟 Faydalı Kaynaklar](https://learn.yemreak.com/icerikler/python)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [🔰 Python'a Giriş](https://python.yemreak.com/giris/)
