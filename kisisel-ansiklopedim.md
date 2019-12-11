@@ -1,8 +1,8 @@
 ---
-description: Kişisel ansiklopedim
+description: Kişisel kütüphanem
 ---
 
-# 📖 YWiki
+# 📖 Kişisel Kütüphanem
 
 * [📖 YWiki](https://wiki.yemreak.com/)
 * [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)

@@ -2,7 +2,7 @@
 description: Öğrenme yolları
 ---
 
-# 👨‍🏫 YLearn
+# 👨‍🏫 Öğrenme Yolları
 
 * [👨‍🏫 YLearn](https://learn.yemreak.com/)
 * [🥽 Yabancı Kaynaklar](https://awesome.yemreak.com)

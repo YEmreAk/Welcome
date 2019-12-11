@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👨‍💻 YEmreAk](README.md)
-* [📖 Kişisel Ansiklopedim](kisisel-ansiklopedim.md)
+* [📖 Kişisel Kütüphanem](kisisel-ansiklopedim.md)
 * [👨‍🏫 Öğrenme Yolları](ogrenme-yollari.md)
 * [🐍 Python](python.md)
 * [🎇 Windows 10](windows-10.md)
