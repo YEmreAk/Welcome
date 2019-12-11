@@ -2,7 +2,7 @@
 description: Java programlama notlarım
 ---
 
-# ☕ Java
+# ☕ Java Notlarım
 
 * [☕ YJava](https://java.yemreak.com/)
 * [🔰 Java'ya Giriş](https://java.yemreak.com/javaya-giris/)
