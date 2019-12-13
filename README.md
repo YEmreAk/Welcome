@@ -4,7 +4,7 @@ description: "\U0001F30E Yunus Emre AK ~ YEmreAk'ın (@yedhrab) bilgi dünyasın
 
 # 👨‍💻 YEmreAk
 
-## 🙋‍♂️ Selam
+## 🙋‍♂️ Karşılama
 
 🤓 Her alanda bildiklerimi **daha kullanışlı olması adına** alt domainlerde saklamaktayım.
 
