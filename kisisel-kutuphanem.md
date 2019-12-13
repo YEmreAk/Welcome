@@ -1,5 +1,5 @@
 ---
-description: Kişisel ansiklopedim
+description: Kişisel kütüphanem
 ---
 
 # 📖 Kişisel Kütüphanem
@@ -49,7 +49,7 @@ description: Kişisel ansiklopedim
   * [🐍 Python](https://wiki.yemreak.com/programlama/python)
   * [☕ Java](https://wiki.yemreak.com/programlama/java)
   * [📱 Android](https://wiki.yemreak.com/programlama/android)
-  * [🌍 Web Programlama](https://wiki.yemreak.com/programlama/web)
+  * [🌍 Web Notlarım](https://wiki.yemreak.com/programlama/web)
   * [🎃 Kotlin](https://wiki.yemreak.com/programlama/kotlin/)
     * [💫 Değişkenler](https://wiki.yemreak.com/programlama/kotlin/degiskenler)
     * [🚅 Diziler](https://wiki.yemreak.com/programlama/kotlin/diziler)
@@ -64,23 +64,6 @@ description: Kişisel ansiklopedim
     * [🎮 Oyun Programlama](https://wiki.yemreak.com/programlama/c/oyun-programlama/)
       * [🛵 Unreal Engine](https://wiki.yemreak.com/programlama/c/oyun-programlama/unreal-engine)
       * [🔲 Unity](https://wiki.yemreak.com/programlama/c/oyun-programlama/unity)
-* [🌍 Web Programlama](https://wiki.yemreak.com/web/)
-  * [📗 Web için Kullanışlı Notlar](https://wiki.yemreak.com/web/notlar/)
-    * [👨‍💼 Web Sitesi Yönetimi](https://wiki.yemreak.com/web/notlar/web-sitesi-yoenetimi)
-    * [🧇 Wordpress](https://wiki.yemreak.com/web/notlar/wordpress)
-    * [🌎 Natro Hosting](https://wiki.yemreak.com/web/notlar/natro-hosting)
-    * [🤖 Selenium](https://wiki.yemreak.com/web/notlar/selenium)
-    * [💜 Heroku](https://wiki.yemreak.com/web/notlar/heroku)
-    * [💳 OpenCart](https://wiki.yemreak.com/web/notlar/opencart)
-    * [🥴 Web Programlama Karışık Notlar](https://wiki.yemreak.com/web/notlar/web-programlama-karisik-notlar)
-  * [💚 Nodejs](https://wiki.yemreak.com/web/nodejs/)
-    * [🔰 Nodejs Giriş](https://wiki.yemreak.com/web/nodejs/giris)
-    * [🧱 Nodejs Temelleri](https://wiki.yemreak.com/web/nodejs/temel)
-    * [🥬 NPM](https://wiki.yemreak.com/web/nodejs/npm)
-  * [📜 Javascript](https://wiki.yemreak.com/web/javascript)
-  * [🔶 JQuery](https://wiki.yemreak.com/web/jquery)
-  * [🐘 PHP](https://wiki.yemreak.com/web/php)
-  * [⚛️ React](https://wiki.yemreak.com/web/react)
 * [🧠 Yapay Zeka](https://wiki.yemreak.com/yapay-zeka)
 * [📊 Veri Bilimi](https://wiki.yemreak.com/veri-bilimi)
 * [🏰 Proje Yönetimi](https://wiki.yemreak.com/proje-yonetimi/)
