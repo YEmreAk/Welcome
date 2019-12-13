@@ -4,9 +4,9 @@ description: "\U0001F30E Yunus Emre AK ~ YEmreAk'ın (@yedhrab) bilgi dünyasın
 
 # 👨‍💻 YEmreAk
 
-## 🦚 Karşılama
+## 🙋‍♂️ Selam
 
-Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklamaktayım.
+🤓 Her alanda bildiklerimi **daha kullanışlı olması adına** alt domainlerde saklamaktayım.
 
 * 🏹 Sağ üstteki **arama alanına** aradığın sayfanın başlığını yaz
 * 🕵️‍♂️ Sayfa açıldıktan sonra **CTRL + F** ile tarayıcı arama alanına isteğini yaz
@@ -18,7 +18,13 @@ Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklam
 
 ![](https://drive.google.com/uc?id=1LZoJzZyY_uYbl3zCxk6ZtZPaDiMHglMv)
 
-## ✨ Sayfalarım
+## 📢 Yeni Sayfalar
+
+{% embed url="https://web.yemreak.com" %}
+
+{% embed url="https://java.yemreak.com" %}
+
+## 📃 Tüm Sayfalarım
 
 {% embed url="https://wiki.yemreak.com" caption="" %}
 
@@ -33,6 +39,10 @@ Her alanda bildiklerimi daha kullanışlı olması adına alt domainlerde saklam
 {% embed url="https://ds.yemreak.com" caption="" %}
 
 {% embed url="https://android.yemreak.com" caption="" %}
+
+{% embed url="https://java.yemreak.com" %}
+
+{% embed url="https://web.yemreak.com" %}
 
 {% embed url="https://iuce.yemreak.com" caption="" %}
 

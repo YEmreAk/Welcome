@@ -2,7 +2,7 @@
 description: Web programlama notlarım
 ---
 
-# 🌍 Web Programlama
+# 🌍 Web Notlarım
 
 * [🌍 Web Programlama](https://web.yemreak.com/)
 * [📗 Kullanışlı Notlar](https://web.yemreak.com/web-icin-kullanisli-notlar/)
@@ -45,3 +45,4 @@ description: Web programlama notlarım
 * [📕 Git Notları](https://book.git.yemreak.com/)
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
+
