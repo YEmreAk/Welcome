@@ -49,6 +49,7 @@ description: Kişisel ansiklopedim
   * [🐍 Python](https://wiki.yemreak.com/programlama/python)
   * [☕ Java](https://wiki.yemreak.com/programlama/java)
   * [📱 Android](https://wiki.yemreak.com/programlama/android)
+  * [🌍 Web Programlama](https://wiki.yemreak.com/programlama/web)
   * [🎃 Kotlin](https://wiki.yemreak.com/programlama/kotlin/)
     * [💫 Değişkenler](https://wiki.yemreak.com/programlama/kotlin/degiskenler)
     * [🚅 Diziler](https://wiki.yemreak.com/programlama/kotlin/diziler)

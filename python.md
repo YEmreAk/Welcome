@@ -47,7 +47,7 @@ description: Python notlarım
   * [✨ Faydalı İşlemler](https://python.yemreak.com/diger/faydali-islemler)
 * [✍ Yazılarım](https://python.yemreak.com/yazilar/)
   * [📦 Pip ile Kurulabilir Python Paketi Oluşturma](https://python.yemreak.com/yazilar/pip-ile-kurulabilir-python-paketi-olusturma)
-  * [🔢 Algoritma Örnekleri](https://python.yemreak.com/yazilar/algoritma-oernekleri)
+  * [🔢 Algoritma Örnekleri](https://python.yemreak.com/yazilar/algoritma-ornekleri)
   * [📈 Verimli Kodlama](https://python.yemreak.com/yazilar/verimli-kodlama)
 * [🥴 Karışık Notlar](https://python.yemreak.com/karisik/)
   * [🔗 Harici Linkler](https://python.yemreak.com/karisik/harici-linkler)

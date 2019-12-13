@@ -4,7 +4,7 @@ description: Java programlama notlarım
 
 # ☕ Java Notlarım
 
-* [☕ YJava](https://java.yemreak.com/)
+* [☕ Java Notlarım](https://java.yemreak.com/)
 * [🔰 Java'ya Giriş](https://java.yemreak.com/javaya-giris/)
   * [👶 Başlangıç](https://java.yemreak.com/javaya-giris/baslangic)
   * [⏬ NetBeans Kurulumu](https://java.yemreak.com/javaya-giris/netbeans-kurulumu)
