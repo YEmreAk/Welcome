@@ -43,17 +43,23 @@ path = veri-bilimi.md
 url = https://github.com/YEmreAk/YDataScience
 root = https://ds.yemreak.com
 
-[submodule "android.md"]
-description = Android programlama notlarım
-path = android.md
-url = https://github.com/YEmreAk/YAndroid
-root = https://android.yemreak.com
-
 [submodule "java.md"]
 description = Java programlama notlarım
 path = java.md
 url = https://github.com/YEmreAk/YJava
 root = https://java.yemreak.com
+
+[submodule "web.md"]
+description = Web programlama notlarım
+path = web.md
+url = https://github.com/YEmreAk/YWeb
+root = https://web.yemreak.com
+
+[submodule "android.md"]
+description = Android programlama notlarım
+path = android.md
+url = https://github.com/YEmreAk/YAndroid
+root = https://android.yemreak.com
 
 [submodule "linux-notlari.md"]
 description = Linux notlarım
