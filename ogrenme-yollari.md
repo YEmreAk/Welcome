@@ -13,12 +13,12 @@ description: Öğrenme yolları
 
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
+* [👨‍💻 Programlama](https://learn.yemreak.com/programlama)
 * [📱 Android](https://learn.yemreak.com/android)
 * [🌊 Derin Öğrenme](https://learn.yemreak.com/derin-ogrenme)
 * [🧰 Faydalı Siteler](https://learn.yemreak.com/faydali-siteler)
 * [🍎 MacOS](https://learn.yemreak.com/macos)
 * [👩‍🏫 Makine Öğrenimi](https://learn.yemreak.com/makine-ogrenimi)
-* [👨‍💻 Programlama](https://learn.yemreak.com/programlama)
 * [🐍 Python](https://learn.yemreak.com/python)
 * [📊 Veri Bilimi](https://learn.yemreak.com/veri-bilimi)
 * [🌍 Web Programlama](https://learn.yemreak.com/web-programlama)
