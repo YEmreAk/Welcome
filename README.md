@@ -20,9 +20,9 @@ description: "\U0001F30E Yunus Emre AK ~ YEmreAk'ın (@yedhrab) bilgi dünyasın
 
 ## 📢 Yeni Sayfalar
 
-{% embed url="https://web.yemreak.com" %}
+{% embed url="https://web.yemreak.com" caption="" %}
 
-{% embed url="https://java.yemreak.com" %}
+{% embed url="https://java.yemreak.com" caption="" %}
 
 ## 📃 Tüm Sayfalarım
 
@@ -40,9 +40,9 @@ description: "\U0001F30E Yunus Emre AK ~ YEmreAk'ın (@yedhrab) bilgi dünyasın
 
 {% embed url="https://android.yemreak.com" caption="" %}
 
-{% embed url="https://java.yemreak.com" %}
+{% embed url="https://java.yemreak.com" caption="" %}
 
-{% embed url="https://web.yemreak.com" %}
+{% embed url="https://web.yemreak.com" caption="" %}
 
 {% embed url="https://iuce.yemreak.com" caption="" %}
 
