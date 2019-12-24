@@ -312,4 +312,3 @@ description: 🏫 Üniversitedeki notlar
     - [💰 Uygulamalı Girişimcilik](https://iuce.yemreak.com/4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/)
       - [🎲 Karma İçerikler](https://iuce.yemreak.com/4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/Karma%20%C4%B0%C3%A7erikler/)
   - [📚 Karışık Notlar](https://iuce.yemreak.com/5.1%20Kar%C4%B1%C5%9F%C4%B1k%20Notlar/)
-
