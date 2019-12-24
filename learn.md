@@ -14,6 +14,7 @@ description: Öğrenme yolları
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [📘 GitBook Kullanımı](https://wiki.yemreak.com/proje-yoenetimi/gitbook/gitbook-kullanimi)
 * [👨‍💻 Programlama](https://learn.yemreak.com/programlama)
+* [👨‍💼 Proje Yönetimi](https://learn.yemreak.com/proje-yonetimi)
 * [📱 Android](https://learn.yemreak.com/android)
 * [🌊 Derin Öğrenme](https://learn.yemreak.com/derin-ogrenme)
 * [🧰 Faydalı Siteler](https://learn.yemreak.com/faydali-siteler)
