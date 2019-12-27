@@ -30,4 +30,3 @@ description: Öğrenme yolları
 
 * [🔍 Araştırma Teknikleri](https://learn.yemreak.com/deneysel/arastirma-teknikleri)
 
-## 

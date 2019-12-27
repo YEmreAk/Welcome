@@ -13,4 +13,3 @@ description: Öğrenme yolları
 * [👨‍💻 Geliştirici Commit'leri](https://emoji.yemreak.com/kullanim/gelistirici-commitleri)
 * [🔗 Faydalı Bağlantılar](https://emoji.yemreak.com/kullanim/faydali-baglantilar)
 
-## 

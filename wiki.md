@@ -163,4 +163,3 @@ description: Kişisel kütüphanem
   * [🤝 İŞKUR](https://wiki.yemreak.com/gunluk-hayat/iskur)
 * [🌄 Düzensiz Notlar](https://wiki.yemreak.com/duzensiz)
 
-## 
