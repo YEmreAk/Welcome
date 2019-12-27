@@ -68,7 +68,7 @@ until = Derlenmiş Çalışmalar
 description = Linux notlarım
 path = linux.md
 url = https://github.com/YEmreAk/YLinux
-root = https://limux.yemreak.com
+root = https://linux.yemreak.com
 until = Derlenmiş Çalışmalar
 
 [submodule "IUC-CE"]
