@@ -1,5 +1,6 @@
 ---
-description: Web programlama notlarım
+description: >-
+  Web programlama notlarım
 ---
 
 # 🌍 Web Notlarım

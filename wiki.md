@@ -1,12 +1,13 @@
 ---
-description: Kişisel kütüphanem
+description: >-
+  Kişisel kütüphanem
 ---
 
 # 📖 Kişisel Kütüphanem
 
 * [📖 Kişisel Kütüphanem](https://wiki.yemreak.com/)
-* [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
-* [🚀 Emoji Sözlüğüm](https://emoji.yemreak.com)
+* [👨‍🏫 Öğrenme Yolları](https://wiki.yemreak.com/ogrenme-yollari)
+* [🚀 Emoji Sözlüğüm](https://wiki.yemreak.com/emoji-sozlugum)
 * [💖 Katkıda Bulunma Rehberi](https://wiki.yemreak.com/contributing)
 * [✍ Kişisel Yazılarım](https://wiki.yemreak.com/yazilar/)
   * [⏳ Bilgisayarda Zaman Yönetimi \(Time Tracking\)](https://wiki.yemreak.com/yazilar/bilgisayarda-zaman-yoenetimi-time-tracking)
@@ -78,7 +79,6 @@ description: Kişisel kütüphanem
       * [🛵 Unreal Engine](https://wiki.yemreak.com/programlama/c/oyun-programlama/unreal-engine)
       * [🔲 Unity](https://wiki.yemreak.com/programlama/c/oyun-programlama/unity)
 * [🧠 Yapay Zeka](https://wiki.yemreak.com/yapay-zeka)
-* [📊 Veri Bilimi](https://wiki.yemreak.com/veri-bilimi)
 * [🏰 Proje Yönetimi](https://wiki.yemreak.com/proje-yonetimi/)
   * [👨‍💼 Projelerin Kontrolü](https://wiki.yemreak.com/proje-yonetimi/kontrol)
   * [🧩 Git](https://wiki.yemreak.com/proje-yonetimi/git/)
@@ -142,7 +142,7 @@ description: Kişisel kütüphanem
   * [🎤 Ses Formatları](https://wiki.yemreak.com/tech/ses-formatlari)
   * [📱 HTC Desire 820](https://wiki.yemreak.com/tech/htc-desire-820)
   * [💻 HP Bilgisayar Sorunları](https://wiki.yemreak.com/tech/hp-bilgisayar-sorunlari)
-* [🏫 Istanbul University - CE](https://wiki.yemreak.com/istanbul-university-ce)
+* [🏫 İstanbul Üniversitesi - CE](https://wiki.yemreak.com/iuce)
 * [📕 Üniversite Notlarım](https://wiki.yemreak.com/uni/)
   * [🧠 Neural Network](https://wiki.yemreak.com/uni/neural-network)
 * [🛫 İnsansız Hava Araçları](https://wiki.yemreak.com/iha/)

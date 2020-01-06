@@ -1,5 +1,6 @@
 ---
-description: Linux notlarım
+description: >-
+  Linux notlarım
 ---
 
 # 🐧 Linux Notlarım

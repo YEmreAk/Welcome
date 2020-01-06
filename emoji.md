@@ -1,5 +1,6 @@
 ---
-description: Öğrenme yolları
+description: >-
+  Öğrenme yolları
 ---
 
 # 🚀 YEmoji

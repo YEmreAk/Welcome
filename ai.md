@@ -1,5 +1,6 @@
 ---
-description: Yapay zeka notlarım
+description: >-
+  Yapay zeka notlarım
 ---
 
 # 🧠 Yapay Zeka Notlarım
